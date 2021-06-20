@@ -5,5 +5,5 @@
     "moduleResolution": "node",
     "declaration": true
   },
-  "include": ["src/**/*"] // Only files from ./src/ directory will be processed and generated folder structure will be relative to ./src/
+  "include": ["src/**/*"]
 }
